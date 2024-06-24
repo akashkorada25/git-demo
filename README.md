@@ -1,2 +1,4 @@
 # git-demo
-This is demo for git tools. We will learn about github as well.
+This is demo for git tools. 
+<br>
+We will learn about github as well.
